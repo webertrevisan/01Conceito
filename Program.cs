@@ -1,12 +1,24 @@
-﻿// Meu primeiro Comentário
+﻿// Variaveis 
+
+//TEXTOS: Letras, Simbolos, Numeros, qualquer tipo de informção
+String nome = "Weber";
 
 
-/*
-    linha 1
-    linha 2
-    linha 3
+//LETRAS: Armazenar uma letra Usar aspas Simples!
+Char inicial = 'W';
 
-*/
+//NUMEROS INTEIROS => idade nao tem como ter (31.6 anos)
+int idade = 31;
 
-Console.WriteLine("Hello World!");
-Console.Write("Aprendendo Lógica e algoritmos");
+//NUMEROS REAIS => numeros exatos
+double altura = 1.73;
+
+//LÓGICA => Verdadeiro ou falso
+bool estuda = true;
+
+//Exibir valores das variáveis
+Console.WriteLine(nome);
+Console.WriteLine(inicial);
+Console.WriteLine(idade);
+Console.WriteLine(altura);
+Console.WriteLine(estuda);
