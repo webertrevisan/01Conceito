@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Meu primeiro Comentário
+
+
+/*
+    linha 1
+    linha 2
+    linha 3
+
+*/
+
+Console.WriteLine("Hello World!");
+Console.Write("Aprendendo Lógica e algoritmos");
