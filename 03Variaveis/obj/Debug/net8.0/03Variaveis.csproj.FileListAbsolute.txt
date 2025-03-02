@@ -1,0 +1,15 @@
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\bin\Debug\net8.0\03Variaveis.exe
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\bin\Debug\net8.0\03Variaveis.deps.json
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\bin\Debug\net8.0\03Variaveis.runtimeconfig.json
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\bin\Debug\net8.0\03Variaveis.dll
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\bin\Debug\net8.0\03Variaveis.pdb
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\obj\Debug\net8.0\03Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\obj\Debug\net8.0\03Variaveis.AssemblyInfoInputs.cache
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\obj\Debug\net8.0\03Variaveis.AssemblyInfo.cs
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\obj\Debug\net8.0\03Variaveis.csproj.CoreCompileInputs.cache
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\obj\Debug\net8.0\03Variaveis.sourcelink.json
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\obj\Debug\net8.0\03Variaveis.dll
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\obj\Debug\net8.0\refint\03Variaveis.dll
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\obj\Debug\net8.0\03Variaveis.pdb
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\obj\Debug\net8.0\03Variaveis.genruntimeconfig.cache
+C:\Dev\logicaAlgoritmosCsharp\01Conceito\03Variaveis\obj\Debug\net8.0\ref\03Variaveis.dll
